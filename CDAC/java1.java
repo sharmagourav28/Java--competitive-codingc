@@ -7,5 +7,6 @@ public class java1 {
         int a = scan.nextInt();
         int b = scan.nextInt();
         System.out.println(a % b);
+        scan.close();
     }
 }
